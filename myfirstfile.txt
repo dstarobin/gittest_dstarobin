@@ -5,3 +5,4 @@ this is my online edit
 ...and here's some other stuff after I figured out 
 how to configure Git Bash running on MingW64 
 to open Sublime on a Windows machine.
+Hello there, this is Lani M'cleod messing with your file
